@@ -24,7 +24,7 @@ Make sure you have **Git** installed. If not, you can download it [here](https:/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Palindrome-Checker.git
+git clone https://github.com/DevGoyalG/Palindrome-Checker.git
 ```
 
 ## 🤝 Contributing
