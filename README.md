@@ -5,6 +5,11 @@ A simple project to check if a given word or phrase is a palindrome. This applic
 ## 🌐 Live Demo
 Check out the live demo of the Palindrome Checker [here](https://palindrome-test.netlify.app/).
 
+## 📸 Project Preview
+Here's a sneak peek of the Palindrome Checker application:
+
+![Project Preview](assets/Palindrome-Checker.png)
+
 ## 🚀 Features
 - Checks if the input string is a palindrome.
 - Ignores case sensitivity and special characters for an accurate result.
@@ -33,5 +38,5 @@ Contributions are welcome! If you have suggestions or want to report an issue, f
 ## 👨‍💻 Created by
 This project was created and is maintained by:
 **Dev Goyal**
-<br>
+
 Feel free to reach out if you have any questions or suggestions!
